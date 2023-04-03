@@ -2,5 +2,5 @@
   "urlAcessoOdin": "http://snsistemas.ddns.net",
   "portaAcessoOdin": "6060",
   "versaoMinimaS7ERP": "",
-  "urlAcessoAPI_ZAP_SN": "http://18.118.44.12:8000/send-message"
+  "urlAcessoAPI_ZAP_SN": "http://18.118.44.12:8000"
 }
