@@ -1,6 +1,6 @@
 {
-  "urlAcessoOdin": "http://snsistemas.ddns.net",
+  "urlAcessoOdin": "http://13.50.247.151",
   "portaAcessoOdin": "6060",
-  "versaoMinimaS7ERP": "",
+  "versaoMinimaS7ERP": "snsistemas.ddns.net",
   "urlAcessoAPI_ZAP_SN": "http://13.48.54.213:8000"
 }
